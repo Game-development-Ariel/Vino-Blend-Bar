@@ -25,6 +25,6 @@
 ## חברי הצוות
 
 * דוד בלוך ([davidbloch18](https://github.com/davidbloch18))
-* [להשלים: שם מלא] ([omrisabag2001](https://github.com/omrisabag2001))
+* עומרי סבג ([omrisabag2001](https://github.com/omrisabag2001))
 
 </div>
