@@ -18,6 +18,10 @@
 
 [הרכיבים הרשמיים של המשחק וסקירת משחקים קיימים](formal-elements.md)
 
+## סקר שוק
+
+[סקר השוק של המשחק](Market_Research.md)
+
 ## אב-טיפוס
 
 בתיקייה [WineBlender](WineBlender) יש אב-טיפוס עובד ב-Unity 6 (גרסה 6000.3.25f1). כדי להריץ: פותחים את התיקייה ב-Unity Hub, פותחים את הסצנה `Assets/Scenes/SampleScene` ולוחצים Play.
